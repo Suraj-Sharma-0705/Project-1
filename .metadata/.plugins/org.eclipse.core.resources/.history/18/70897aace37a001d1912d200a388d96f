@@ -1,0 +1,11 @@
+package com.in28minutes.springboot.in28minutes.demo;
+
+public class quickSortAlgorithm {
+	public int[] sort(int[]numbers) {
+		
+		//logic for Q sort
+		
+		return numbers; 
+	}
+
+}

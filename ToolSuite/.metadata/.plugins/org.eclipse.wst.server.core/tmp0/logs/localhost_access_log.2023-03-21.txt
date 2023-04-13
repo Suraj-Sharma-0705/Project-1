@@ -1,0 +1,5 @@
+127.0.0.1 - - [21/Mar/2023:22:42:16 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [21/Mar/2023:22:42:19 +0530] "GET /springmvcsearch/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [21/Mar/2023:22:42:21 +0530] "GET /springmvcsearch/home HTTP/1.1" 200 1915
+0:0:0:0:0:0:0:1 - - [21/Mar/2023:22:42:31 +0530] "GET /springmvcsearch/complex HTTP/1.1" 200 4090
+0:0:0:0:0:0:0:1 - - [21/Mar/2023:22:47:36 +0530] "GET /springmvcsearch/complex HTTP/1.1" 200 4090

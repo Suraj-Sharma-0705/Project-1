@@ -1,0 +1,12 @@
+package springmvcsearch;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+
+public class SearchController {
+	
+	@RequestMapping("/home")
+	public String home() {
+		return "home";
+	}
+
+}

@@ -1,0 +1,17 @@
+package com.in28minutes.springboot.in28minutes.demo;
+
+public class binarySearchImpl {
+	
+	private sortAlgorithm sortAlgorithm;
+	
+	public int binarySearch(int[] numbers, int numbersToSearchFor) {
+		
+		bubbleSortAlgorithm bubbleSortAlgorithm = new bubbleSortAlgorithm();
+		
+		int[] sortedNumbers = bubbleSortAlgorithm.sort(numbers);
+	
+		//Returning the result
+		
+	return 3;
+	}
+}

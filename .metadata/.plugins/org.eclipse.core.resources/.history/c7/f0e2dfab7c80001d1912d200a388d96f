@@ -1,0 +1,24 @@
+package com.in28minutes.springboot.in28minutes.demo;
+
+public class binarySearchImpl {
+	
+	private sortAlgorithm SortAlgorithm;
+	
+	
+	public binarySearchImpl(com.in28minutes.springboot.in28minutes.demo.sortAlgorithm sortAlgorithm) {
+		super();
+		this.SortAlgorithm = sortAlgorithm;
+	}
+
+
+	public int binarySearch(int[] numbers, int numbersToSearchFor) {
+		
+		bubbleSortAlgorithm bubbleSortAlgorithm = new bubbleSortAlgorithm();
+		
+		int[] sortedNumbers = bubbleSortAlgorithm.sort(numbers);
+	
+		// Search the array
+		
+	return 3;
+	}
+}
